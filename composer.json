@@ -1,0 +1,16 @@
+{
+    "name": "divicto/multiplydemo",
+    "description": "Demo App",
+    "type": "library",
+    "require": {
+        "php": "5.0.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Divicto",
+            "email": "divicto@github.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
